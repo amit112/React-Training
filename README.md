@@ -66,3 +66,22 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+
+
+
+This is complete react tutorial for beginner and this project consisting all the essential code examples to build react application :
+
+### This project have saparate branches for each chapter
+
+
+### Chapter 1 : Hello world
+### Chapter 2 : Javascript eseentials for rect
+
+
+
+
+
