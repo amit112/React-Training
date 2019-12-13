@@ -1,4 +1,6 @@
-In this project i have covered all the essential javascript topics to build react Application.
+In this project i have covered all the essential javascript topics to build react Application. You can see results of all the topics in browser console .
+
+# Run application using : npm start
 
 #### 1. Diffrence between let and var keyword
 #### 2.Objects
