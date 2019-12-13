@@ -79,7 +79,7 @@ This is complete react tutorial for beginner and this project consisting all the
 
 
 ### Chapter 1 : Hello world
-### Chapter 2 : Javascript eseentials for rect
+### Chapter 2 : Javascript eseentials for react
 
 
 
