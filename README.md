@@ -1,6 +1,6 @@
 ### Chapter 3 - Components (Part 1)
 
-In Have Completed here Part-1 of react components chapter and i have done following topics : -
+I Have Completed here Part-1 of react components chapter and i have done following topics : -
 
 #### 1. Specifying html children in react component.
 #### 2. Embedding javascript expression with html.
