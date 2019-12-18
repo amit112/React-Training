@@ -8,4 +8,4 @@ I have done following topics : -
 #### 13. Deleting a movie. 
 #### 14. Conditional Rendering.
 
-![Screenshots](screenshot.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Components--Part-2/ScreenShots/Screenshot.png)
