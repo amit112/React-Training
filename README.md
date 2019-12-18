@@ -1,6 +1,6 @@
 ### Chapter 3 - Components (Part 2)
 
-I Have Completed here Part-3 of react components chapter and i have created small app for rendering and deleting movies data.
+I have Completed here Part-3 of react components chapter and i have created small app for rendering and deleting movies data.
 I have done following topics : -
 
 #### 11. Setting up the vidly project.
