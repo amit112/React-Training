@@ -8,4 +8,4 @@ I have done following topics : -
 #### 13. Deleting a movie. 
 #### 14. Conditional Rendering.
 
-![Screenshot](screenshot.png)
+![Screenshots](screenshot.png)
