@@ -1,11 +1,12 @@
-### Chapter 3 - Components (Part 2)
+### Chapter 4 - Composing Components (Part 3)
 
-I have Completed here Part-3 of react components chapter and i have created small app for rendering and deleting movies data.
+I have completed Part-2 of the "Composing Components" chapter. I this project i have added  like button in each row rows of movies table.
+
 I have done following topics : -
 
-#### 11. Setting up the vidly project.
-#### 12. Building the movie component .
-#### 13. Deleting a movie. 
-#### 14. Conditional Rendering.
+#### 19. Exercise - Like Component.
 
-![Screenshots](screenshot.png)
+
+Here i have included screenshot of exercise.
+
+![Screenshots](https://github.com/amit112/React-Training/blob/Composing-Components-Part-2/ScreenShots/Screenshot1.png)
