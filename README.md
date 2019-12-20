@@ -1,6 +1,6 @@
 ### Chapter 4 - Composing Components (Part 2)
 
-I have completed Part-2 of the "Composing Components" chapter. I this project i have added  like button in each row rows of movies table.
+I have completed Part-2 of the "Composing Components" chapter. In this project i have added like button in each row of movies table.
 
 I have done following topics : -
 
