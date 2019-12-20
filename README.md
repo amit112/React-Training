@@ -4,11 +4,26 @@ I have completed  part-1 of react  "composing components" chapter. I have create
 
 I have done following topics : -
 
-#### 11. Setting up the vidly project.
-#### 12. Building the movie component .
-#### 13. Deleting a movie. 
-#### 14. Conditional Rendering.
+#### 1. Composing Components.
+#### 2. Passing data to component .
+#### 3. Passing children component to parent component. 
+#### 4. How to debug react app.
+#### 5. Props Vs State.
+#### 6. Raising and Handling events.
+#### 7. Updating the state.
+#### 8. Single source of truth.
+#### 9. Removing the local state.
+#### 10. Multiple components in sync.
+#### 11. Lifting the state up.
+#### 12. Stateless functional components.
+#### 13. Destructuring arguments.
+#### 14. Life-cycle hooks.
+#### 15. Mouting Phase.
+#### 16. Updating Phase.
+#### 17. Unmounting Phase.
+#### 18. Exercise - Decrement button.
+
 
 Here i have included screenshot of exercise.
 
-![Screenshots](https://github.com/amit112/React-Training/blob/Components--Part-2/ScreenShots/Screenshot.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Composing-Components-Part-1/screenshots/Screenshot.png)
