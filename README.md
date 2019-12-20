@@ -1,6 +1,6 @@
 ### Chapter 4 - Composing Components (Part 1)
 
-I have completed part-1 of react "composing components" chapter. I have created small app to display total counters on navigation bar  and in this app user can increment ,decrement value of each counter and also can remove counter from displayed list.
+I have completed Part-1 of the "Composing Components" chapter. I have created a small app to display the total counters on the navigation bar and in this app the user can increase or decrease the value of each counter and also can remove the counter from the displayed list.
 
 I have done following topics : -
 
