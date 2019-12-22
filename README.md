@@ -10,6 +10,9 @@ This is complete react tutorial for beginner and this project consisting all the
 
 ### Chapter 1 : Hello world
 ### Chapter 2 : Javascript eseentials for react
+### Chapter 3 : Components
+### Chapter 4 : Composing Components
+### Chapter 5 : Pagination Filtering and Sorting
 
 
 
