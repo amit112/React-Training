@@ -5,7 +5,7 @@
 
 This is complete react tutorial for beginner and this project consisting all the essential code examples to build react application :
 
-### This project have saparate branches for each chapter
+### This project have separate branches for each chapter
 
 
 ### Chapter 1 : Hello world
