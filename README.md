@@ -1,11 +1,11 @@
-### Chapter 3 - Components (Part 2)
+### Chapter 5 - Pagination Filtering and Sorting
 
-I have Completed here Part-3 of react components chapter and i have created small app for rendering and deleting movies data.
-I have done following topics : -
+I have completed Chapter 5 (Pagination Filtering and Sorting). In this project i have implemented pagination, filtering and sorting and i have learned following things from this exercise .
 
-#### 11. Setting up the vidly project.
-#### 12. Building the movie component .
-#### 13. Deleting a movie. 
-#### 14. Conditional Rendering.
+#### 11. Component Design .
+#### 12. How to create component interface .
+#### 13. Create resusale components. 
+#### 14. Code refractoring.
+#### 14. Write clean code.
 
 ![Screenshots](screenshot.png)
