@@ -14,6 +14,6 @@ I have completed chapter 6 (Routing). In this project i have implemented routing
 #### 10. Nested Routing.
 
 ![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot1.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot2.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot3.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot4.png)
