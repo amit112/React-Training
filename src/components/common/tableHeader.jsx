@@ -25,7 +25,7 @@ const {sortColumn} = this.props;
         const { columns  } = this.props;
         return ( <thead><tr>
         {columns.map(column =>   
-        column.label ?  <th key={column.path} onClick= {()=> this.onSortRaise(column.path) }>{column.label} {this.renderSortIcon(column)}</th> : <th key={column.key}></th>
+        column.label ?  <th className="clickable" key={column.path} onClick= {()=> this.onSortRaise(column.path) }>{column.label} {this.renderSortIcon(column)}</th> : <th key={column.key}></th>
         )}
         </tr>
         </thead>);
