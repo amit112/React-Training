@@ -1,14 +1,19 @@
-### Chapter 5 - Pagination Filtering and Sorting
+### Chapter 6 - Routing
 
-I have completed Chapter 5 (Pagination Filtering and Sorting). In this project i have implemented pagination, filtering and sorting and i have learned following things from this exercise .
+I have completed chapter 6 (Routing). In this project i have implemented routing and navigation across react components and i have learned following things from this exercise .
 
-#### 1. Component Design .
-#### 2. How to create component interface .
-#### 3. Create resusale components. 
-#### 4. Code refractoring.
-#### 5. Write clean code.
+#### 1. How to add route.
+#### 2. Switch.
+#### 3. Link. 
+#### 4. Route Props.
+#### 5. How to pass props in routing.
+#### 6. How to define optional parameters in routes.
+#### 7. How to pass querystring in url and retrieve in component.
+#### 8. Redirects.
+#### 9. Programmatic Navigation.
+#### 10. Nested Routing.
 
-![Screenshots](https://github.com/amit112/React-Training/blob/Pagination-Filtering-and-Sorting/ScreenShots/chapter-5/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Pagination-Filtering-and-Sorting/ScreenShots/chapter-5/Screenshot2.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Pagination-Filtering-and-Sorting/ScreenShots/chapter-5/Screenshot3.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Pagination-Filtering-and-Sorting/ScreenShots/chapter-5/Screenshot4.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot1.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot2.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot3.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot4.png)
