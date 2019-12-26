@@ -1,6 +1,6 @@
 ### Chapter 7 - Forms
 
-I have completed chapter 7 (Routing). In this project i have implemented bootstrap forms and validations using "Joi" library and i have learned following things from this exercise .
+I have completed chapter 7 (Forms). In this project i have implemented bootstrap forms and validations using "Joi" library and i have learned following things from this exercise .
 
 #### 1. Building bootstrap forms.
 #### 2. Handling Form submission.
