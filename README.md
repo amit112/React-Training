@@ -22,8 +22,8 @@ I have completed chapter 7 (Routing). In this project i have implemented bootstr
 #### 18. Exercise - Search movie.
 
 
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-7(Forms)/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-7(Forms)/Screenshot2.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-7(Forms)/Screenshot3.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-7(Forms)/Screenshot4.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-7(Forms)/Screenshot5.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Forms/ScreenShots/Chapter-7(Forms)/Screenshot1.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Forms/ScreenShots/Chapter-7(Forms)/Screenshot2.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Forms/ScreenShots/Chapter-7(Forms)/Screenshot3.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Forms/ScreenShots/Chapter-7(Forms)/Screenshot4.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Forms/ScreenShots/Chapter-7(Forms)/Screenshot5.png)
