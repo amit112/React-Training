@@ -1,20 +1,29 @@
-### Chapter 6 - Routing
+### Chapter 7 - Forms
 
-I have completed chapter 6 (Routing). In this project i have implemented routing and navigation across react components and i have learned following things from this exercise .
+I have completed chapter 7 (Routing). In this project i have implemented bootstrap forms and validations using "Joi" library and i have learned following things from this exercise .
 
-#### 1. How to add route.
-#### 2. Switch.
-#### 3. Link. 
-#### 4. Route Props.
-#### 5. How to pass props in routing.
-#### 6. How to define optional parameters in routes.
-#### 7. How to pass querystring in url and retrieve in component.
-#### 8. Redirects.
-#### 9. Programmatic Navigation.
-#### 10. Nested Routing.
+#### 1. Building bootstrap forms.
+#### 2. Handling Form submission.
+#### 3. Controlled elements. 
+#### 4. Multiple inputs.
+#### 5. Common errors with inputs.
+#### 6. Extracting a reusable input.
+#### 7. Validation.
+#### 8. Basic validation implementation.
+#### 9. Displaying validation erros.
+#### 10. Validation on value change.
+#### 11. How to use joi library for validations.
+#### 12. Validating a field using joi.
+#### 13. Disabling the submit button.
+#### 14. Extracting a reusable form.
+#### 15. Extracting helper rendering methods.
+#### 16. Register form.
+#### 17. Exercise - Create new movie item and Update movies data.
+#### 18. Exercise - Search movie.
 
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot2.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot3.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot4.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot5.png)
+
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-7(Forms)/Screenshot1.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-7(Forms)/Screenshot2.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-7(Forms)/Screenshot3.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-7(Forms)/Screenshot4.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-7(Forms)/Screenshot5.png)
