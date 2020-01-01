@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { getMovies } from '../services/fakeMovieService';
-import {getGenres} from '../services/fakeGenreService';
+import { getMovies , deleteMovie } from '../services/movieService';
+import {getGenres} from '../services/genreService';
 import Pagination from './common/pagination';
 import { paginate } from '../utils/paginate';
 import ListGroup from './common/listGroup';
@@ -8,6 +8,7 @@ import MoviesTable from './moviesTable';
 import _ from 'lodash';
 import { Link } from 'react-router-dom';
 import SearchBox from './common/searchBox';
+import { toast } from 'react-toastify';
 export class Movies extends Component {
     state = {
         movies: [],
@@ -18,21 +19,28 @@ export class Movies extends Component {
         sortColumn: {path: 'title' , order: 'asc' },
         searchQuery : ""
     }
-    componentDidMount() {
+    async componentDidMount() {
+        const {data} = await getGenres();
         const currentGenre = {_id: '', name: "All Genres"};
-        const genres = [currentGenre , ...getGenres()]; 
-        this.setState({movies: getMovies() , genres , currentGenre });
+        const genres = [currentGenre , ...data]; 
+        const  {data: movies} = await getMovies();
+        debugger;
+        this.setState({movies  , genres , currentGenre });
     }
-    handleDelete = movie => {
-      const movies =  this.state.movies.filter(m=> m._id !== movie._id);
-      this.setState({movies});
+    handleDelete = async movie => {
+        const originalMovies = this.state.movies;
+        try {
+            await deleteMovie(movie._id);
+            const movies = [...this.state.movies.filter(m=> m._id !== movie._id)];
+            this.setState({movies});
+        } catch(ex) {
+if(ex.response && ex.response.status === 404) {
+    toast.error("This movie has been already deleted")
+}
+this.setState({movies: originalMovies});
+}
+    
     }
-
-    handleDelete = movie => {
-        const movies =  this.state.movies.filter(m=> m._id !== movie._id);
-        this.setState({movies});
-      }
-
 
 
     handleLike = movie => {

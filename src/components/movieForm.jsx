@@ -1,8 +1,8 @@
 import React from 'react';
 import Form from './common/form';
 import Joi from 'joi-browser';
-import  { getGenres} from '../services/fakeGenreService';
-import  { getMovie, saveMovie} from '../services/fakeMovieService';
+import  { getGenres} from '../services/genreService';
+import  { getMovie, saveMovie} from '../services/movieService';
 class MovieForm extends Form {
     state = {
         data: { _id: "", title: "", genreId: "", numberInStock: "", dailyRentalRate: "" },
@@ -28,17 +28,27 @@ class MovieForm extends Form {
           .max(10)
           .label("Rate")
     }
-    componentDidMount = () =>{
-        const genres =  getGenres();
+    populateGenres = async () => {
+      const {data:genres} =await  getGenres();
         this.setState({genres});
-        const { match, history} = this.props;
-        const movieId = match.params.id;
-        if(movieId) {
-        if(movieId === 'new') return; 
-        const movie = getMovie(movieId);
-        if(!movie) return history.replace('/not-found');
+    }
+    populateMovies = async () => {
+      const { match, history} = this.props;
+      const movieId = match.params.id;
+      if(movieId) {
+      if(movieId === 'new') return; 
+      try {
+        const {data:movie} =  await getMovie(movieId);
         this.setState({data: this.mapToMovie(movie)}); 
-        }
+      }
+      catch(ex) {
+        if(ex.response && ex.response.status === 404)  history.replace('/not-found');
+      }
+      }
+    }
+    componentDidMount = async () => {
+      await this.populateGenres();
+       await this.populateMovies();
         
     }
     mapToMovie = movie => {
@@ -47,10 +57,10 @@ class MovieForm extends Form {
              dailyRentalRate: movie.dailyRentalRate
         }
     }
-    doSubmit = () => {
+    doSubmit = async () => {
       const movie = {...this.state.data};
-      saveMovie(movie);
-      this.props.history.push('/movies');
+      const {data } =   await saveMovie(movie);
+      if(data) this.props.history.push('/movies');
     }
     render() {
        const { genres} = this.state;
