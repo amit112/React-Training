@@ -1,6 +1,6 @@
-### Chapter 8 - Calling Backend-Services (Part-2)
+### Chapter 8 - Calling Backend-Services (Part-1)
 
-I have completed part-2 of chapter 8 (Calling Backend-Services) and i have created demo project. In this project i have implemented rest api call using  using "axios" package , notifications using "react-toastify" package and exceptions logging using "sentry" api service.
+I have completed part-1 of chapter 8 (Calling Backend-Services) and i have created demo project. In this project i have implemented rest api call using  using "axios" package , notifications using "react-toastify" package and exceptions logging using "sentry" api service.
 
 I have learned following things from this exercise .
 
