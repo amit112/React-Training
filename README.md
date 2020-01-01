@@ -11,6 +11,6 @@ I have learned following things from this exercise .
 #### 2. How to write saperate api files for each component.
 
 
-![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services----Part1/screenshots/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services----Part1/screenshots/Screenshot2.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services----Part1/screenshots/Screenshot3.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services-Part-2/ScreenShots/Chapter-8(Calling%20Bakend%20services)/Screenshot1.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services-Part-2/ScreenShots/Chapter-8(Calling%20Bakend%20services)/Screenshot2.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services-Part-2/ScreenShots/Chapter-8(Calling%20Bakend%20services)/Screenshot3.png)
