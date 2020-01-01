@@ -1,4 +1,4 @@
-### Chapter 8 - Calling Backend-Services (Part-1)
+### Chapter 8 - Calling Backend-Services (Part-2)
 
 I have completed part-2 of chapter 8 (Calling Backend-Services) and i have added real time backend in previously created "vidly" project using REST API that is already created by mosh. In this project i have implemented crud operations on movies page , notifications using "react-toastify" package.
 
