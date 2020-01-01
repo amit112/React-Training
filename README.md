@@ -1,20 +1,14 @@
-### Chapter 6 - Routing
+### Chapter 8 - Calling Backend-Services (Part-1)
 
-I have completed chapter 6 (Routing). In this project i have implemented routing and navigation across react components and i have learned following things from this exercise .
+I have completed part-2 of chapter 8 (Calling Backend-Services) and i have added real time backend in previously created "vidly" project using REST API that is already created by mosh. In this project i have implemented crud operations on movies page , notifications using "react-toastify" package.
 
-#### 1. How to add route.
-#### 2. Switch.
-#### 3. Link. 
-#### 4. Route Props.
-#### 5. How to pass props in routing.
-#### 6. How to define optional parameters in routes.
-#### 7. How to pass querystring in url and retrieve in component.
-#### 8. Redirects.
-#### 9. Programmatic Navigation.
-#### 10. Nested Routing.
+I have learned following things from this exercise .
 
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot2.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot3.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot4.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Routing/ScreenShots/Chapter-6(Routing)/Screenshot5.png)
+
+#### 1. Get, Post ,Put and Delete data using axios library.
+#### 2. How to write saperate api files for each component.
+
+
+![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services----Part1/screenshots/Screenshot1.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services----Part1/screenshots/Screenshot2.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services----Part1/screenshots/Screenshot3.png)
