@@ -1,14 +1,27 @@
-### Chapter 8 - Calling Backend-Services (Part-2)
+### Chapter 9 - Authentication and Authorization
 
-I have completed part-2 of chapter 8 (Calling Backend-Services) and i have added real time backend in previously created "vidly" project using REST API that is already created by mosh. In this project i have implemented crud operations on movies page , notifications using "react-toastify" package.
+I have completed chapter 9 (Authentication and Authorization) and implemented user authentication and authorization in previously created "vidly" project using jwt tokens.
 
 I have learned following things from this exercise .
 
 
-#### 1. Get, Post ,Put and Delete data using axios library.
-#### 2. How to write saperate api files for each component.
+#### 1. User Registration and display errors.
+#### 2. User Login and display errors.
+#### 3. Storing the json web token.
+#### 4. Decoding of json web tokens.
+#### 5. Getting the current user.
+#### 6. Displaying the current user on navbar.
+#### 7. Calling protected api endpoints.
+#### 8. Fixing bi-directional dependencies.
+#### 9. Authorization.
+#### 10. Showing and hiding elements based on user.
+#### 11. Protecting Routes.
+#### 12. Extracting protected Route component.
+#### 13. Redirect after login.
+#### 14. Hiding the delete column in table.
 
 
-![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services----Part1/screenshots/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services----Part1/screenshots/Screenshot2.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Calling-Backend-Services----Part1/screenshots/Screenshot3.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Authentication-and-Authorization/ScreenShots/Chapter-9(Authentication%20and%20Authorization)/Screenshot1.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Authentication-and-Authorization/ScreenShots/Chapter-9(Authentication%20and%20Authorization)/Screenshot2.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Authentication-and-Authorization/ScreenShots/Chapter-9(Authentication%20and%20Authorization)/Screenshot3.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Authentication-and-Authorization/ScreenShots/Chapter-9(Authentication%20and%20Authorization)/Screenshot4.png)
