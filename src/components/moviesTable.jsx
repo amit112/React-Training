@@ -1,7 +1,8 @@
 import React , {Component} from 'react';
+import { Link } from 'react-router-dom';
 import Like from './common/like';
 import Table from './common/table';
-import { Link } from 'react-router-dom';
+import auth from "../services/authService";
 
 
 export class MoviesTable extends Component {
@@ -11,10 +12,19 @@ export class MoviesTable extends Component {
         {label: "Stock", path :"numberInStock"},
         {label: "Rate", path :"dailyRentalRate"},
         {key: "item1", content : movie => {
-           return <Like liked= {movie.liked} onClick={()=> this.props.onLike(movie)} ></Like> }},
-           {key: "item2", content : movie => {
-                return <button onClick={()=> this.props.onDelete(movie) } className="btn btn-danger btn-sm">Delete</button> }},
+           return <Like liked= {movie.liked} onClick={()=> this.props.onLike(movie)} ></Like> }}
     ]
+
+    deleteColumn = {key: "item2", content : movie => {
+        return <button onClick={()=> this.props.onDelete(movie) } className="btn btn-danger btn-sm">Delete</button> }};
+
+   constructor() {
+       super();
+       const user = auth.getCurrentUser();
+       if(user && user.isAdmin) {
+       this.columns.push(this.deleteColumn);
+       }
+   }     
     render() { 
         const { movies , onSort , sortColumn  } = this.props;
         return ( 

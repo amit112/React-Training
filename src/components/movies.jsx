@@ -80,13 +80,14 @@ this.setState({movies: originalMovies});
         const  {currentPage , pageSize , genres ,currentGenre , sortColumn ,searchQuery} =this.state;
         const {totalCount ,data: movies } = this.getPagedData();
         if ( totalCount === 0)  return <p>There is no movies in database</p>
+        const {user } = this.props;
         return (
             <div className="row">  
                 <div className="col-3">
                     <ListGroup  items={genres} selectedItem ={currentGenre}  onItemSelect={this.handleGenreSelect}  ></ListGroup>
                 </div>
                 <div className="col">
-                    <Link to="/movies/new" className="btn btn-primary" style={{marginBottom:20}}>New Movie</Link>
+                   {user && <Link to="/movies/new" className="btn btn-primary" style={{marginBottom:20}}>New Movie</Link>}
                 <p>Showing {totalCount} movies in the database.</p>
                 <SearchBox value= {searchQuery}  onChange={this.handleSearch}></SearchBox>
                 <MoviesTable movies={movies} sortColumn = {sortColumn} onLike={this.handleLike} onDelete={this.handleDelete} onSort={this.handleSort}></MoviesTable>
