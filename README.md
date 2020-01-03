@@ -17,8 +17,8 @@ I have learned following things from this exercise .
 #### 10. Showing and hiding elements based on user.
 #### 11. Protecting Routes.
 #### 12. Extracting protected Route component.
-#### 13. Redirect after login.
-#### 14. Hiding the delete column in table.
+#### 13. Redirecting after login.
+#### 14. Hiding the delete column in table based on user role.
 
 
 ![Screenshots](https://github.com/amit112/React-Training/blob/Authentication-and-Authorization/ScreenShots/Chapter-9(Authentication%20and%20Authorization)/Screenshot1.png)
