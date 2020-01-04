@@ -1,24 +1,20 @@
-### Chapter 9 - Authentication and Authorization
+### Chapter 10 - Deployment
 
-I have completed chapter 9 (Authentication and Authorization) and implemented user authentication and authorization in previously created "vidly" project using jwt tokens.
+I have completed chapter 10 (Deployment) and deployed "vidly" app and "vidly-node-api" app using Heroku.
+
+Please check here : https://shielded-mesa-47998.herokuapp.com/
 
 I have learned following things from this exercise .
 
-
-#### 1. User Registration and display errors.
-#### 2. User Login and display errors.
-#### 3. Storing the json web token.
-#### 4. Decoding of json web tokens.
-#### 5. Getting the current user.
-#### 6. Displaying the current user on navbar.
-#### 7. Calling protected api endpoints.
-#### 8. Fixing bi-directional dependencies.
-#### 9. Authorization.
-#### 10. Showing and hiding elements based on user.
-#### 11. Protecting Routes.
-#### 12. Extracting protected Route component.
-#### 13. Redirecting after login.
-#### 14. Hiding the delete column in table based on user role.
+#### 1. Environment variables.
+#### 2. Production builds.
+#### 3. What is Heraku.
+#### 4. Mongodb in cloud.
+#### 5. Setting environment variables.
+#### 6. Preparation of Node app for deployment .
+#### 7. Deploying node app to heraku.
+#### 8. Preparing react app for deployement.
+#### 9. Deploying react app to heraku.
 
 
 ![Screenshots](https://github.com/amit112/React-Training/blob/Authentication-and-Authorization/ScreenShots/Chapter-9(Authentication%20and%20Authorization)/Screenshot1.png)
