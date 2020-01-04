@@ -1,6 +1,6 @@
-import config from '../config.json'
+
 import http from './httpService';
-const apiEndPoint = config.apiEndPoint + '/movies';
+const apiEndPoint ='/movies';
 
 export async function getMovies() {
     return await http.get(apiEndPoint);
