@@ -1,6 +1,6 @@
 ### Chapter 10 - Deployment
 
-I have completed chapter 10 (Deployment) and deployed "vidly" app and "vidly-node-api" app using heroku.
+I have completed chapter 10 (Deployment) and deployed "vidly" app and "vidly-node-api" app using Heroku.
 
 Please check here : https://shielded-mesa-47998.herokuapp.com/
 
