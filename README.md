@@ -10,7 +10,7 @@ This is complete react tutorial for from basic to advance level and it is consis
 ### Chapter 5 : Pagination Filtering and Sorting	
 ### Chapter 6 :	Routing
 ### Chapter 7 : Forms	
-### Chapter 8 : Calling Backend-Servies	
+### Chapter 8 : Calling Backend-Services	
 ### Chapter 9 : Authentication and Authorization	
 ### Chapter 10 :Deployment	
 
