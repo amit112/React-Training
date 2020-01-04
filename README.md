@@ -4,15 +4,18 @@ This is complete react tutorial for from basic to advance level and it is consis
 
 
 ##### Chapter 1 : [Hello world](https://github.com/amit112/React-Training/tree/hello-world)	
-##### Chapter 2 : Javascript eseentials for react	
-##### Chapter 3 : Components	
-##### Chapter 4 : Composing Components	
-##### Chapter 5 : Pagination Filtering and Sorting	
-##### Chapter 6 :	Routing
-##### Chapter 7 : Forms	
-##### Chapter 8 : Calling Backend-Services	
-##### Chapter 9 : Authentication and Authorization	
-##### Chapter 10 :Deployment	
+##### Chapter 2 : [Javascript eseentials for react](https://github.com/amit112/React-Training/tree/Javascript-essentials-for-react-(ES6))
+##### Chapter 3 : [Components Part-1](https://github.com/amit112/React-Training/tree/Components---Part-1)	
+##### Chapter 3 : [Components Part-2](https://github.com/amit112/React-Training/tree/Components--Part-2)	
+##### Chapter 4 : [Composing Components Part-1](https://github.com/amit112/React-Training/tree/Composing-Components-Part-1)	
+##### Chapter 4 : [Composing Components Part-2](https://github.com/amit112/React-Training/tree/Composing-Components-Part-2)	
+##### Chapter 5 : [Pagination Filtering and Sorting](https://github.com/amit112/React-Training/tree/Pagination-Filtering-and-Sorting)	
+##### Chapter 6 :	[Routing](https://github.com/amit112/React-Training/tree/Routing)
+##### Chapter 7 : [Forms](https://github.com/amit112/React-Training/tree/Forms)	
+##### Chapter 8 : [Calling Backend-Services Part-1](https://github.com/amit112/React-Training/tree/Calling-Backend-Services----Part1)	
+##### Chapter 8 : [Calling Backend-Services Part-2](https://github.com/amit112/React-Training/tree/Calling-Backend-Services-Part-2)	
+##### Chapter 9 : [Authentication and Authorization](https://github.com/amit112/React-Training/tree/Authentication-and-Authorization)	
+##### Chapter 10 :[Deployment](https://github.com/amit112/React-Training/tree/Deployment)	
 
 
 
