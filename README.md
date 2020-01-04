@@ -1,6 +1,6 @@
 This is complete react tutorial for from basic to advance level and it is consisting all the essential code examples to build react application :
 
-### This course have separate branches for each chapter
+#### This course have separate branches for each chapter
 
 
 ##### Chapter 1 : Hello world	
