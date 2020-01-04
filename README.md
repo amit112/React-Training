@@ -2,8 +2,8 @@
 
 I have completed chapter 10 (Deployment) and deployed "vidly" app and "vidly-node-api" app using Heroku.
 
-Please check here : https://shielded-mesa-47998.herokuapp.com/
-
+Please check here(vidly) : https://shielded-mesa-47998.herokuapp.com/
+Please check here(vidly-api) : https://vidly-api-amitmeena.herokuapp.com/
 I have learned following things from this exercise .
 
 #### 1. Environment variables.
