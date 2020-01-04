@@ -17,7 +17,6 @@ I have learned following things from this exercise .
 #### 9. Deploying react app to heraku.
 
 
-![Screenshots](https://github.com/amit112/React-Training/blob/Authentication-and-Authorization/ScreenShots/Chapter-9(Authentication%20and%20Authorization)/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Authentication-and-Authorization/ScreenShots/Chapter-9(Authentication%20and%20Authorization)/Screenshot2.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Authentication-and-Authorization/ScreenShots/Chapter-9(Authentication%20and%20Authorization)/Screenshot3.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Authentication-and-Authorization/ScreenShots/Chapter-9(Authentication%20and%20Authorization)/Screenshot4.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Deployment/ScreenShots/Chapter-10(Deployment)/Screenshot1.png)
+![Screenshots](https://github.com/amit112/React-Training/blob/Deployment/ScreenShots/Chapter-10(Deployment)/Screenshot2.png)
+
