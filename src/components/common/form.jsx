@@ -5,7 +5,7 @@ import Select from './select';
 
 class Form extends Component {
     state = {
-        data: { username: '', password: '' },
+        data: { },
         errors: {}
     }
     handleChange = ({ currentTarget: input }) => {
