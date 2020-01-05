@@ -7,7 +7,7 @@ const tokenKey = 'token';
 http.setJwt(getJwt());
 
 export async function login(loginData) {
-    const {data: jwt} = await http.post(apiEndPoint, {email: loginData.username,  password: loginData.password});
+    const {data: jwt} = await http.post(apiEndPoint, loginData);
     loginWithJwt(jwt);
 }
 

@@ -5,11 +5,11 @@ import auth from '../services/authService';
 import { Redirect } from 'react-router-dom';
 class LoginForm extends Form {
     state = {
-        data: { username: '', password: '' },
+        data: { email: '', password: '' },
         errors: {}
     }
     schema = {
-        username: Joi.string().required().label('Username'),
+        email: Joi.string().required().label('Email'),
         password: Joi.string().required().label('Password')
     }
     doSubmit = async () => {
@@ -22,7 +22,7 @@ class LoginForm extends Form {
         catch (ex) {
         if(ex.response && ex.response.status === 400) {
             const errors = {...this.state.errors};
-            errors.username = ex.response.data;
+            errors.email = ex.response.data;
             this.setState({errors});
         }
         }
@@ -33,7 +33,7 @@ class LoginForm extends Form {
             <div>
                 <h1>Login</h1>
                 <form onSubmit={this.handleSubmit}>
-                    {this.renderInput('username', 'Username')}
+                    {this.renderInput('email', 'Email')}
                     {this.renderInput('password', 'Password' , 'password')}
                     {this.renderButton('Submit')}
                 </form>
