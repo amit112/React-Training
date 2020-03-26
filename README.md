@@ -1,6 +1,6 @@
 ### Chapter 1 - Node Package Manager
 
-I have completed chapter Node package manager  . In this project i have learned about various node package commands and  how to create and publish node package.
+I have completed chapter Node package manager  . In this chapter i have learned about various node package commands and  how to create and publish node package.
 
 I have learned following things from this exercise .
 
