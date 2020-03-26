@@ -1,29 +1,16 @@
-### Chapter 7 - Forms
+### Chapter 1 - Node Package Manager
 
-I have completed chapter 7 (Forms). In this project i have implemented bootstrap forms and validations using "Joi" library and i have learned following things from this exercise .
+I have completed chapter Node package manager  . In this project i have learned about various node package commands and  how to create and publish node package.
 
-#### 1. Building bootstrap forms.
-#### 2. Handling Form submission.
-#### 3. Controlled elements. 
-#### 4. Multiple inputs.
-#### 5. Common errors with inputs.
-#### 6. Extracting a reusable input component.
-#### 7. Validation.
-#### 8. Basic validation implementation.
-#### 9. Displaying validation erros.
-#### 10. Validation on value change.
-#### 11. How to use joi library for validations.
-#### 12. Validating a field using joi.
-#### 13. Disabling the submit button.
-#### 14. Extracting a reusable form component.
-#### 15. Extracting helper rendering methods.
-#### 16. Register form.
-#### 17. Exercise - Create new movie item and Update movies data.
-#### 18. Exercise - Search movie.
+I have learned following things from this exercise .
 
+#### 1. Structure of package.json.
+#### 2. Sementic versioning.
+#### 3. View Package Listing. 
+#### 4. View Package Registry info.
+#### 5. Installing a specific version of package.
+#### 6. Updating local packages and dev-dependencies.
+#### 7. Working with global packages.
+#### 8. Creating and Publishing package.
+#### 9. Updating a published package.
 
-![Screenshots](https://github.com/amit112/React-Training/blob/Forms/ScreenShots/Chapter-7(Forms)/Screenshot1.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Forms/ScreenShots/Chapter-7(Forms)/Screenshot2.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Forms/ScreenShots/Chapter-7(Forms)/Screenshot3.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Forms/ScreenShots/Chapter-7(Forms)/Screenshot4.png)
-![Screenshots](https://github.com/amit112/React-Training/blob/Forms/ScreenShots/Chapter-7(Forms)/Screenshot5.png)
